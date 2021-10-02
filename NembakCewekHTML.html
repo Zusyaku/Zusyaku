@@ -1,0 +1,126 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Zusyaku 
+kyo1337
+/
+nembakcewehtml
+Public
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+nembakcewehtml/nembakcewe.html
+@kyo1337
+kyo1337 Update
+Latest commit 3d23237 on 12 Jun
+ History
+ 1 contributor
+83 lines (77 sloc)  2.83 KB
+   
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hai Kamu...</title>
+    <link rel="icon" href="https://img.icons8.com/plasticine/2x/filled-like.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <style>
+        body{
+            text-align: center;
+            background-image: url('https://i.gifer.com/3jni.gif');
+        }
+        
+        .btnMau{
+            background-color: pink;
+            border: 2px solid pink;
+            padding: 10px 20px 10px 20px;
+            border-radius: 20px 5px 20px 5px;
+        }
+        .btnMau:hover{
+            box-shadow: 5px 5px red;
+            cursor: pointer;
+            margin-top: -20px;
+        }
+
+        .btnGamau{
+            background-color: red;
+            border: 2px solid red;
+            padding: 10px 20px 10px 20px;
+            border-radius: 20px 5px 20px 5px;
+            color: white;
+        }
+        .btnGamau:hover{
+            box-shadow: 5px 5px black;
+            cursor: pointer;
+            margin-top: -20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hai Cantik</h1>
+    <img src="https://media.tenor.com/images/d196926724b9f63bdb0658354e09e902/tenor.gif" alt="">
+    <h1>Mau Ga Jadi Pacarku?</h1>
+    <button id="btn_mau" style="margin-left: -100px;" class="btnMau first">
+        <i class="fas fa-heart"></i> Mau
+    </button>
+    <button id="ga_mau" onclick="gamau(this)" style="position: absolute;margin-left: 20px;" class="btnGamau">
+        <i class="fas fa-heart-broken"></i> Gamau
+    </button>
+    
+    
+    <!-- JavaScript -->
+    <script>
+        function gamau(id){
+            var mau = document.getElementById('btn_mau');
+            var i = Math.floor(Math.random()*300)+1;
+            var j = Math.floor(Math.random()*100)+mau.offsetTop;
+            id.style.left = i+'px';
+            id.style.top = j+'px';
+        }
+
+        document.querySelector(".first").addEventListener("click", function () {
+            var a = Array('\u2665');
+                swal({
+                    title: "I <3 U"
+                })
+                .then((value) => {
+                    swal({
+                        title: "See U Later Beb ..."
+                    }).then(function () {
+                        location.reload();
+                    });                    
+                });
+            });
+    </script>
+</body>
+</html>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
