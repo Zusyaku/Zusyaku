@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 ## I Am Not Hacker Or Programmer
 
-* I Use Github For Save File And Project
+* "I Use Github For Save File And Project"
 
-## WARNING : ***This tool is only for educational purpose only. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
+## WARNING FOR YOU IF USE TOOLS ##
+
+***This tool is only for educational purpose only. If you use this tool for other purposes except education we will not be responsible in such cases.***
