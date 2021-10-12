@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 * "I Use Github For Save File And Project"
 
 
-## WARNING FOR YOU IF USE TOOLS ##
+## WARNING FOR YOU IF USE  THIS TOOLS ##
 
-***This tool is only for educational purpose only. If you use this tool for other purposes except education we will not be responsible in such cases.***
+***This Tool Is Only For Educational Purpose Only. If You Use This Tool For Other Purposes Except Education We Will Not Be Responsible In Such Cases.***
