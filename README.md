@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zusyaku
-- 👀 I’m interested in Tecnology
-- 🌱 I’m currently learning Psikologi
+- 👀 I’m interested in Tecnology And Sains
+- 🌱 I’m Currently studying Psychology
 - 💞️ I’m looking to collaborate To World
 - 📫 How to reach me With Send Me Email * `zusyaku@gmail.com`
 
@@ -9,8 +9,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zusyaku&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
   
   ## MY SOCIAL MEDIA
-* [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Kingtebe)<br />
-* [<img alt="WhatsApp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UCkvRV5y6_EcVdBzfp05Kf1g)<br />
+* [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Zusyaku)<br />
+* [<img alt="WhatsApp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q)<br />
 * [<img alt="r__ibnu's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/zudhi.syakurii)<br />
 
 <!---
