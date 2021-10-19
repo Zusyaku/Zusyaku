@@ -22,8 +22,11 @@ You can click the Preview link to take a look at your changes.
 
 ## I Am Not Hacker Or Programmer ##
 
-*I Use Github For Save File And Project*
+## About Me
 
+__Warning__ :
+- Saya Bukan Hecker Dan Bukan Programmer Hanya Sekedar Belajar Dunia Teknologi 
+Dan Saya Tidak Juga Kuliah DiJurusan IT 
 
 ## WARNING FOR YOU IF USE  THIS TOOLS ##
 
