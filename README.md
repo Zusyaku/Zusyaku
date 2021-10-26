@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Zusyaku
 - 👀 I’m interested in Tecnology And Sains
-- 🌱 I’m Currently studying Psychology
+- 🌱 I’m Currently studying Everything
 - 💞️ I’m looking to collaborate To World
 - 📫 How to reach me With Send Me Email * `zusyaku@gmail.com`
+- 📫 If Have Trouble Or Ask Password Just Email Me
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Zusyaku&show_icons=true&theme=dark)
 <p align="center">
