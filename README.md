@@ -9,9 +9,26 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zusyaku&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
   
   ## MY SOCIAL MEDIA
-* [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Zusyaku)<br />
-* [<img alt="WhatsApp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q)<br />
-* [<img alt="r__ibnu's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/zudhi.syakurii)<br />
+* [<img alt="Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Zusyaku)<br />
+* [<img alt="Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q)<br />
+* [<img alt="Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/zudhi.syakurii)<br />
+  
+  ### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[website]: https://zusyakuu.blogspot.com/
+[twitter]: https://twitter.com/ZudhiSyakuri
+[youtube]: https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q
+[instagram]: https://instagram.com/zudhi.syakurii
+[linkedin]: https://www.linkedin.com/in/Zusyaku/
+[work]: https://nasa.gov
 
 <!---
 Zusyaku/Zusyaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
