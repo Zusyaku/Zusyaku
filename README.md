@@ -20,12 +20,9 @@ You can click the Preview link to take a look at your changes.
 ![110318584-81067880-7fc2-11eb-8391-152d308e7f2b](https://user-images.githubusercontent.com/71582475/136984817-e8138b64-de1c-4c16-983a-c18692440543.gif)
 
 
-# I Am Not Hacker Or Programmer 
-
-# About Me
+# I Am Not Hacker Or Programmer
   
-** Saya Bukan Hacker Dan Bukan Programmer Hanya Saja Saya Suka Belajar Dunia Teknologi
-Dan Internet **
+  I Use Github For Save File And Project
 
 ## WARNING FOR YOU IF USE  THIS TOOLS ##
 
