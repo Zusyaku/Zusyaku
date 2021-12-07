@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zusyaku
+## Hai I'M , [Zusyaku](https://github.com/Zusyaku) 👋
 - 👀 I’m interested in Tecnology And Sains
 - 🌱 I’m Currently studying Everything
 - 💞️ I’m looking to collaborate To World
