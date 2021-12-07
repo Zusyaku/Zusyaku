@@ -2,7 +2,8 @@
 - 👀 I’m interested in Tecnology And Sains
 - 🌱 I’m Currently studying Everything
 - 💞️ I’m looking to collaborate To World
-- 📫 How to reach me With Send Me Email * `zusyaku@gmail.com`
+- ### Contact me
+✉️ Email: zusyaku@gmail.com
 - 📫 If Have Trouble Or Ask Password Just Email Me
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Zusyaku&show_icons=true&theme=dark)
@@ -24,7 +25,7 @@
 
 <br />
 
-[website]: https://zusyakuu.blogspot.com/
+[website]: https://zusyaku-id.blogspot.com/
 [twitter]: https://twitter.com/ZudhiSyakuri
 [youtube]: https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q
 [instagram]: https://instagram.com/zudhi.syakurii
