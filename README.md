@@ -32,7 +32,6 @@
 [youtube]: https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q
 [instagram]: https://instagram.com/zudhi.syakurii
 [linkedin]: https://www.linkedin.com/in/Zusyaku/
-[work]: https://nasa.gov
   
   
 
@@ -42,9 +41,7 @@ You can click the Preview link to take a look at your changes.
 --->
   
   
-![110318584-81067880-7fc2-11eb-8391-152d308e7f2b](https://user-images.githubusercontent.com/71582475/136984817-e8138b64-de1c-4c16-983a-c18692440543.gif)
-  
-  ### Disclaimer
+### Disclaimer
 
 This tool is only for learning and education purposes. And should be only be used for development purposes. The author will not be held responsible for any kind of misuse or damage to anyone's personal or maternal data. 
   
