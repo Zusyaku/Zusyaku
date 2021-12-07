@@ -33,7 +33,9 @@
 [instagram]: https://instagram.com/zudhi.syakurii
 [linkedin]: https://www.linkedin.com/in/Zusyaku/
   
-  
+  <p align="center">
+<a href="https://github.com/Zusyaku"><img title="Zusyaku" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zusyaku&layout=compact"></a>
+</p>
 
 <!---
 Zusyaku/Zusyaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
