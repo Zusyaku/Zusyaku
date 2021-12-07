@@ -1,10 +1,15 @@
 ## Hai I'M , [Zusyaku](https://github.com/Zusyaku) 👋
-- 👀 I’m interested in Tecnology And Sains
-- 🌱 I’m Currently studying Everything
-- 💞️ I’m looking to collaborate To World
+- 👀 Saya Orang Indonesia
+- 🌱 Saya Suka Belajar Apa Saja Yang Menarik 
+- 💞️ Ingin Memberi Manfaat Pada Banyak Orang
+- ✨😄✨ Cenderung Belajar Psikologi Dan Introvert
+- 📫 If Want Requests Something Or Ask Password Just Email Me
 - ### Contact me
 ✉️ Email: zusyaku@gmail.com
-- 📫 If Have Trouble Or Ask Password Just Email Me
+
+
+## Not Hacker Or Programmer
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Zusyaku&show_icons=true&theme=dark)
 <p align="center">
