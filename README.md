@@ -8,13 +8,10 @@
 ✉️ Email: zusyaku@gmail.com
 
 
-## Not Hacker Or Programmer
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
 
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Zusyaku&show_icons=true&theme=dark)
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zusyaku&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-  
   ## MY SOCIAL MEDIA
 * [<img alt="Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Zusyaku)<br />
 * [<img alt="Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q)<br />
