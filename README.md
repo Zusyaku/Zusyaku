@@ -1,6 +1,6 @@
 ## Hai I'M , [Zusyaku](https://github.com/Zusyaku) 👋
 - 👀 Saya Zusyaku (19)
-- 🌱 I Am Student 
+- 🌱 Siswa Dan Pembelajar Hal-Hal Baru
 - 💞️ Ingin Memberi Manfaat Pada Banyak Orang
 - ✨😄✨ Belajar Psikologi Dan Introvert
 - 📫 If Want Requests Something Or Ask Password Just Email Me
