@@ -1,8 +1,8 @@
 ## Hai I'M , [Zusyaku](https://github.com/Zusyaku) 👋
-- 👀 Saya Orang Indonesia
-- 🌱 Saya Suka Belajar Apa Saja Yang Menarik 
+- 👀 Saya Zusyaku (19)
+- 🌱 I Am Student 
 - 💞️ Ingin Memberi Manfaat Pada Banyak Orang
-- ✨😄✨ Cenderung Belajar Psikologi Dan Introvert
+- ✨😄✨ Belajar Psikologi Dan Introvert
 - 📫 If Want Requests Something Or Ask Password Just Email Me
 - ### Contact me
 ✉️ Email: zusyaku@gmail.com
