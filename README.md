@@ -1,8 +1,15 @@
 ## Hai I'M , [Zusyaku](https://github.com/Zusyaku) 👋
-- 👀 Saya Zusyaku (19)
-- 🌱 Siswa Dan Pembelajar Hal-Hal Baru
-- 💞️ Ingin Memberi Manfaat Pada Banyak Orang
-- ✨😄✨ Belajar Psikologi Dan Introvert
+- 👋 Hi, I’m @Zusyaku
+- 👀 I’m interested in Technology And Sains
+- 🌱 I’m currently learning Psikologi
+- 💞️ I’m looking to collaborate on World
+- 📫 How to reach me wa.me/6285161844869
+
+<!---
+Zusyaku/Zusyaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 - 📫 If Want Requests Something Or Ask Password Just Email Me
 - ### Contact me
 ✉️ Email: zusyaku@gmail.com
