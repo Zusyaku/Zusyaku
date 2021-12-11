@@ -10,7 +10,7 @@ Zusyaku/Zusyaku is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
--## "(Not Hacker Or Programmer)" ##
+-#Not Hacker Or Programmer
 - ### Contact me
 ✉️ Email: zusyaku@gmail.com
 
@@ -22,6 +22,10 @@ You can click the Preview link to take a look at your changes.
   <p align="center">
 <a href="https://github.com/Zusyaku"><img title="Zusyaku" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zusyaku&layout=compact"></a>
 </p>
+
+Here's a little Git stats:
+
+<a href="https://github.com/Zusyaku"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=Zusyaku&include_all_commits=true&theme=github_dark&show_icons=true" height="150" /></a>
   
   ## MY SOCIAL MEDIA
 * [<img alt="Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Zusyaku)<br />
