@@ -3,7 +3,7 @@
 - 👀 I’m interested in Technology And Sains
 - 🌱 I’m currently learning Psikologi
 - 💞️ I’m looking to collaborate on World
-- 📫 How to reach me https://wa.me/6285161844869
+- 📫 How to reach me With Email zusyaku@gmail.com
 
 <!---
 Zusyaku/Zusyaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
