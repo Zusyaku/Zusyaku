@@ -1,4 +1,9 @@
-## Hai I'M , [Zusyaku](https://github.com/Zusyaku) 👋
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+Zusyaku.....;Nice+to+see+you....!&size=25">
+  </a>
+</h1>
+
 - 👋 Hi, I’m @Zusyaku
 - 👀 I’m interested in Technology And Sains
 - 🌱 I’m currently learning Psychology
