@@ -1,9 +1,12 @@
 ## Hai I'M , [Zusyaku](https://github.com/Zusyaku) 👋
 - 👋 Hi, I’m @Zusyaku
 - 👀 I’m interested in Technology And Sains
-- 🌱 I’m currently learning Psikologi
-- 💞️ I’m looking to collaborate on World
-- 📫 How to reach me With Email zusyaku@gmail.com
+- 🌱 I’m currently learning Psychology
+- 💞️ I’m looking to collaborate on World And Make The World Is Better
+- ⚡ Fun fact: I Am Introvert
+- 📫 How to reach me With 
+- Email : zusyaku@gmail.com
+- Telegram: @Zusyaku
 
 <!---
 Zusyaku/Zusyaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +22,9 @@ You can click the Preview link to take a look at your changes.
   <p align="center">
 <a href="https://github.com/Zusyaku"><img title="Zusyaku" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zusyaku&layout=compact"></a>
 </p>
+
+Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Zusyaku/count.svg" />
 
 Here's a little Git stats:
 
@@ -51,7 +57,7 @@ Here's a little Git stats:
 This Tools Is Only For Learning And Education Purposes And Should Be Only Be Used For Development Purposes. The Author Will Not Be Held Responsible For Any Kind Of Misuse Or Damage To Anyone's Personal Or Material Data
   
   ## Disclaimer On Users
-Semua video dan tutorial hanya untuk tujuan informasi dan pendidikan. Kami percaya bahwa peretasan etis, keamanan informasi, dan keamanan siber harus menjadi subjek yang familiar bagi siapa saja yang menggunakan informasi digital dan komputer. Kami percaya bahwa tidak mungkin membela diri dari peretas tanpa mengetahui bagaimana peretasan dilakukan.
+Semua Pembelajaran dan tutorial hanya untuk tujuan informasi dan pendidikan. Kami percaya bahwa peretasan etis, keamanan informasi, dan keamanan siber harus menjadi subjek yang familiar bagi siapa saja yang menggunakan informasi digital dan komputer.Kami percaya bahwa tidak mungkin membela diri dari peretas tanpa mengetahui bagaimana peretasan dilakukan.
   
   ### Thanks Yang Udah Mampir 📋
 
