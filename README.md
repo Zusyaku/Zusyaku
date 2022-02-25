@@ -38,7 +38,7 @@ Here's a little Git stats:
   ## MY SOCIAL MEDIA
 * [<img alt="Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Zusyaku)<br />
 * [<img alt="Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q)<br />
-* [<img alt="Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/zudhi.syakurii)<br />
+* [<img alt="Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/joker.yeager)<br />
   
   ### Connect with me:
 
@@ -51,10 +51,10 @@ Here's a little Git stats:
 <br />
 
 [website]: https://zusyaku-id.blogspot.com/
-[twitter]: https://twitter.com/ZudhiSyakuri
+[twitter]: https://twitter.com/jokeryeager
 [youtube]: https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q
-[instagram]: https://instagram.com/zudhi.syakurii
-[linkedin]: https://www.linkedin.com/in/Zusyaku/
+[instagram]: https://instagram.com/joker.yeager
+[linkedin]: https://www.linkedin.com/in/
   
   
 ### Disclaimer For Tools
