@@ -51,16 +51,7 @@ You can click the Preview link to take a look at your changes.
 [instagram]: https://instagram.com/joker.yeager
 [linkedin]: https://www.linkedin.com/in/
 
-- ### Contact me
-✉️ Email: zusyaku@gmail.com
-Telegram : @Zusyaku
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
-
-Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Zusyaku/count.svg" />
-
-  
   ## MY SOCIAL MEDIA
 * [<img alt="Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Zusyaku)<br />
 * [<img alt="Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q)<br />
@@ -75,6 +66,9 @@ Visitor count<br>
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+  
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Zusyaku/count.svg" />
   
   
 ### Disclaimer For Tools
