@@ -50,6 +50,26 @@ Here's a little Git stats:
 
 <br />
 
+
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/Zusyaku?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Zusyaku?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Zusyaku?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Zusyaku">  <img align="right" src="https://komarev.com/ghpvc/?username=Zusyaku"></a>
+
+<p>
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zusyaku&langs_count=8&theme=react" />
+</p>
+
+<a href="https://github.com/Zusyaku"><img alt="Zusyaku's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Zusyaku&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zusyaku&theme=black-ice"
+    alt="Zusyaku" /></p>
+
+<br />
+
+<a href="https://github.com/Zusyaku"><img alt="Zusyaku's Activity Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=Zusyaku&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
 [website]: https://zusyaku-id.blogspot.com/
 [twitter]: https://twitter.com/jokeryeager
 [youtube]: https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q
