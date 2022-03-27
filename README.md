@@ -4,6 +4,13 @@
   </a>
 </h1>
 
+
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+    width="30px">, I'm Zusyaku</h1>
+<h3 align="center">A Noob Hackers And Script Kiddies</h3>
+
 - 👋 Hi, I’m @Zusyaku
 - 👀 I’m interested in Technology And Sains
 - 🌱 I’m currently learning Psychology
@@ -17,31 +24,6 @@
 Zusyaku/Zusyaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-- ### Contact me
-✉️ Email: zusyaku@gmail.com
-Telegram : @Zusyaku
-
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
-
-Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Zusyaku/count.svg" />
-
-  
-  ## MY SOCIAL MEDIA
-* [<img alt="Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Zusyaku)<br />
-* [<img alt="Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q)<br />
-* [<img alt="Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/joker.yeager)<br />
-  
-  ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 
 ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/Zusyaku?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Zusyaku?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Zusyaku?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Zusyaku">  <img align="right" src="https://komarev.com/ghpvc/?username=Zusyaku"></a>
@@ -68,6 +50,31 @@ Visitor count<br>
 [youtube]: https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q
 [instagram]: https://instagram.com/joker.yeager
 [linkedin]: https://www.linkedin.com/in/
+
+- ### Contact me
+✉️ Email: zusyaku@gmail.com
+Telegram : @Zusyaku
+
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
+
+Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Zusyaku/count.svg" />
+
+  
+  ## MY SOCIAL MEDIA
+* [<img alt="Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Zusyaku)<br />
+* [<img alt="Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q)<br />
+* [<img alt="Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/joker.yeager)<br />
+  
+  ### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
   
   
 ### Disclaimer For Tools
