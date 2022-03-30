@@ -67,12 +67,8 @@ You can click the Preview link to take a look at your changes.
 
 <br />
   
-  Visitor count<br>
+  Visitor count <br>
   <img src="https://profile-counter.glitch.me/Zusyaku/count.svg" />
-  
-  
-  ![rickroll-roll](https://user-images.githubusercontent.com/71582475/160819122-23e392f4-a841-4fd4-9ccb-2340360551eb.gif)
-  
   
 ### Disclaimer For Tools
 
