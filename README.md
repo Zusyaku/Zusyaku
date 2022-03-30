@@ -71,6 +71,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/Zusyaku/count.svg" />
   
   
+  ![rickroll-roll](https://user-images.githubusercontent.com/71582475/160819122-23e392f4-a841-4fd4-9ccb-2340360551eb.gif)
+  
+  
 ### Disclaimer For Tools
 
 This Tools Is Only For Learning And Education Purposes And Should Be Only Be Used For Development Purposes. The Author Will Not Be Held Responsible For Any Kind Of Misuse Or Damage To Anyone's Personal Or Material Data
