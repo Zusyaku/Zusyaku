@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px">, I'm Zusyaku</h1>
-<h3 align="center">A Noob Hackers And Script Kiddies</h3>
+<h3 align="center">Not Hacker And Not Programer</h3>
 
 - 👋 Hi, I’m @Zusyaku
 - 👀 I’m interested in Technology And Sains
