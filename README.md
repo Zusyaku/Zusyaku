@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 This Tools Is Only For Learning And Education Purposes And Should Be Only Be Used For Development Purposes. The Author Will Not Be Held Responsible For Any Kind Of Misuse Or Damage To Anyone's Personal Or Material Data
   
   ## Disclaimer On Users
-Semua Pembelajaran dan tutorial hanya untuk tujuan informasi dan pendidikan. Kami percaya bahwa peretasan etis, keamanan informasi, dan keamanan siber harus menjadi subjek yang familiar bagi siapa saja yang menggunakan informasi digital dan komputer.Kami percaya bahwa tidak mungkin membela diri dari peretas tanpa mengetahui bagaimana peretasan dilakukan.
+All Lessons and tutorials are for informational and educational purposes only. We believe that ethical hacking, information security and cybersecurity should be familiar subjects to anyone who uses digital information and computers. We believe that it is impossible to defend yourself against hackers without knowing how the hacking is done.
   
   ### Thanks Yang Udah Mampir 📋
 
