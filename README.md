@@ -45,11 +45,11 @@ You can click the Preview link to take a look at your changes.
     src="https://activity-graph.herokuapp.com/graph?username=Zusyaku&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
-[website]: https://zusyaku-id.blogspot.com/
+[website]: https://zusyaku-id.blogspot.com
 [twitter]: https://twitter.com/jokeryeager
 [youtube]: https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q
-[instagram]: https://instagram.com/joker.yeager
-[linkedin]: https://www.linkedin.com/in/
+[instagram]: https://instagram.com/zudhi.syakurii
+[linkedin]: https://www.linkedin.com
 
 
   ## MY SOCIAL MEDIA
