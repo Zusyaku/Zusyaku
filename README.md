@@ -47,14 +47,14 @@ You can click the Preview link to take a look at your changes.
 
 [website]: https://zusyaku.eu.org
 [twitter]: https://twitter.com/zudhisyakuri
-[youtube]: https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q
+[youtube]: https://www.youtube.com/@Zusyaku
 [instagram]: https://instagram.com/zusyakuu
 [linkedin]: https://www.linkedin.com/in/zudhi-syakuri-1b9a42219
 
 
   ## MY SOCIAL MEDIA
 * [<img alt="Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Zusyaku)<br />
-* [<img alt="Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q)<br />
+* [<img alt="Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/@Zusyaku)<br />
 * [<img alt="Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/zusyakuu)<br />
   
   ### Connect with me:
