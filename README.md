@@ -9,12 +9,12 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px">, I'm Zusyaku</h1>
-<h3 align="center">Not Hacker And Not Programer</h3>
+<h3 align="center">I Am Not Hacker And Not Programer</h3>
 
 - 👋 Hi, I’m @Zusyaku
 - 👀 I’m interested in Technology And Sains
-- 🌱 I’m currently learning Psychology
-- 💞️ I’m looking to collaborate on World And Make The World Is Better
+- 🌱 I’m currently learning Psychology And Philosophy
+- 💞️ I’m Just Hobby About Technology And Hacking
 - ⚡ Fun fact: I Am Introvert
 - 📫 How to reach me With 
 - Email : zusyaku@gmail.com
@@ -45,10 +45,10 @@ You can click the Preview link to take a look at your changes.
     src="https://activity-graph.herokuapp.com/graph?username=Zusyaku&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
-[website]: https://zusyaku-id.blogspot.com
-[twitter]: https://twitter.com/jokeryeager
+[website]: https://zusyaku.eu.org
+[twitter]: https://twitter.com/zudhisyakuri
 [youtube]: https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q
-[instagram]: https://instagram.com/zudhi.syakurii
+[instagram]: https://instagram.com/zusyakuu
 [linkedin]: https://www.linkedin.com
 
 
