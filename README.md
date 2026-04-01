@@ -12,10 +12,10 @@
 <h3 align="center">I Am Not Hacker And Not Programer</h3>
 
 - 👋 Hi, I’m @Zusyaku
-- 👀 I’m interested in Technology And Sains
+- 👀 I’m interested in Technology And Science
 - 🌱 I’m currently learning Psychology And Philosophy
-- 💞️ I’m Just Hobby About Technology And Hacking
-- ⚡ Fun fact: I Am Introvert And Loved Books
+- 💞️ I’m Just Hobby About Hacking
+- ⚡ Fun fact: Introvert And Loved Books
 - 📫 How to reach me With 
 - Email : zusyaku@gmail.com
 - Telegram: @Zusyaku
